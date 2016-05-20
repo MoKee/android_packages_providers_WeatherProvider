@@ -12,4 +12,6 @@ LOCAL_PACKAGE_NAME := WeatherProvider
 LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := true
 
+LOCAL_AAPT_FLAGS += --rename-manifest-package org.mokee.weather.provider
+
 include $(BUILD_PACKAGE)

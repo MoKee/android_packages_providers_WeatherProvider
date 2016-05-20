@@ -259,8 +259,8 @@ public class WeatherContentProvider extends ContentProvider {
 
     private String mapWeatherCodeToString(int conditionCode) {
         final Resources res = getContext().getResources();
-        final int resId = res.getIdentifier("weather_" + conditionCode,
-                "string", getContext().getPackageName());
+        final int resId = res.getIdentifier("weather_code_" + conditionCode,
+                "string", res.getResourcePackageName(R.string.app_name));
         if (resId != 0) {
             return res.getString(resId);
         }
