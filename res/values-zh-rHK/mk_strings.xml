@@ -18,7 +18,7 @@
   <!-- Weather - Weather codes -->
   <string name="weather_code_0">晴天</string>
   <string name="weather_code_1">多雲</string>
-  <string name="weather_code_2">少雲</string>
+  <string name="weather_code_2">小雲</string>
   <string name="weather_code_3">局部有雲</string>
   <string name="weather_code_4">陰天</string>
   <string name="weather_code_5">大風</string>
