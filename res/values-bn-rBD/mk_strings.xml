@@ -16,5 +16,18 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Weather codes -->
+  <string name="weather_code_0">Sunny</string>
+  <string name="weather_code_1">Cloudy</string>
+  <string name="weather_code_2">Few Clouds</string>
+  <string name="weather_code_3">Partly Cloudy</string>
+  <string name="weather_code_4">Overcast</string>
+  <string name="weather_code_5">Windy</string>
+  <string name="weather_code_6">Calm</string>
+  <string name="weather_code_8">Moderate Breeze</string>
+  <string name="weather_code_9">Fresh Breeze</string>
+  <string name="weather_code_10">Strong Breeze</string>
+  <string name="weather_code_12">Gale</string>
+  <string name="weather_code_13">Strong Gale</string>
+  <string name="weather_code_27">Extreme Rain</string>
   <!-- Forecast unavailable -->
 </resources>
