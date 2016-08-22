@@ -16,5 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Weather codes -->
+  <string name="weather_code_0">Solrigt</string>
+  <string name="weather_code_1">Overskyet</string>
+  <string name="weather_code_2">Lidt skyet</string>
+  <string name="weather_code_3">Delvist overskyet</string>
+  <string name="weather_code_4">Overskyet</string>
+  <string name="weather_code_5">Blæsende</string>
+  <string name="weather_code_6">Rolig</string>
+  <string name="weather_code_7">Let brise</string>
+  <string name="weather_code_8">Jævn vind</string>
+  <string name="weather_code_9">Frisk brise</string>
+  <string name="weather_code_10">Stærk brise</string>
+  <string name="weather_code_11">Kraftig vind</string>
+  <string name="weather_code_13">Stærk storm</string>
+  <string name="weather_code_14">Storm</string>
+  <string name="weather_code_16">Orkan</string>
+  <string name="weather_code_17">Tornado</string>
+  <string name="weather_code_19">Regnbyger</string>
+  <string name="weather_code_20">Kraftig regnbyger</string>
+  <string name="weather_code_23">Hagl</string>
   <!-- Forecast unavailable -->
 </resources>
