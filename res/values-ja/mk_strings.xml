@@ -16,5 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Weather codes -->
+  <string name="weather_code_0">晴れ</string>
+  <string name="weather_code_1">曇り</string>
   <!-- Forecast unavailable -->
 </resources>
