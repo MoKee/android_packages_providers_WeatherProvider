@@ -23,30 +23,30 @@ import android.content.res.Resources;
 import android.database.Cursor;
 import android.database.MatrixCursor;
 import android.net.Uri;
-import cyanogenmod.providers.WeatherContract;
-import cyanogenmod.providers.WeatherContract.WeatherColumns;
-import cyanogenmod.weather.WeatherInfo;
-import cyanogenmod.weather.WeatherInfo.DayForecast;
+import mokee.providers.WeatherContract;
+import mokee.providers.WeatherContract.WeatherColumns;
+import mokee.weather.WeatherInfo;
+import mokee.weather.WeatherInfo.DayForecast;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CITY;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION_CODE;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_HUMIDITY;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_TEMPERATURE;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_TEMPERATURE_UNIT;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_TIMESTAMP;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_WIND_DIRECTION;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_WIND_SPEED;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_WIND_SPEED_UNIT;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION_CODE;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_HIGH;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_LOW;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.TODAYS_HIGH_TEMPERATURE;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.TODAYS_LOW_TEMPERATURE;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_CITY;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION_CODE;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_HUMIDITY;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_TEMPERATURE;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_TEMPERATURE_UNIT;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_TIMESTAMP;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_WIND_DIRECTION;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_WIND_SPEED;
+import static mokee.providers.WeatherContract.WeatherColumns.CURRENT_WIND_SPEED_UNIT;
+import static mokee.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION;
+import static mokee.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION_CODE;
+import static mokee.providers.WeatherContract.WeatherColumns.FORECAST_HIGH;
+import static mokee.providers.WeatherContract.WeatherColumns.FORECAST_LOW;
+import static mokee.providers.WeatherContract.WeatherColumns.TODAYS_HIGH_TEMPERATURE;
+import static mokee.providers.WeatherContract.WeatherColumns.TODAYS_LOW_TEMPERATURE;
 
 public class WeatherContentProvider extends ContentProvider {
 
@@ -259,8 +259,8 @@ public class WeatherContentProvider extends ContentProvider {
 
     private String mapWeatherCodeToString(int conditionCode) {
         final Resources res = getContext().getResources();
-        final int resId = res.getIdentifier("weather_" + conditionCode,
-                "string", getContext().getPackageName());
+        final int resId = res.getIdentifier("weather_code_" + conditionCode,
+                "string", res.getResourcePackageName(R.string.app_name));
         if (resId != 0) {
             return res.getString(resId);
         }

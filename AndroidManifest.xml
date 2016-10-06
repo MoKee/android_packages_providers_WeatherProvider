@@ -25,9 +25,9 @@
 
         <provider
             android:name=".WeatherContentProvider"
-            android:authorities="com.cyanogenmod.weather"
-            android:readPermission="cyanogenmod.permission.READ_WEATHER"
-            android:writePermission="cyanogenmod.permission.WRITE_WEATHER"
+            android:authorities="com.mokee.weather"
+            android:readPermission="mokee.permission.READ_WEATHER"
+            android:writePermission="mokee.permission.WRITE_WEATHER"
             android:exported="true" />
 
     </application>
