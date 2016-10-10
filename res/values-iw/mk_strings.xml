@@ -16,5 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Weather codes -->
+  <string name="weather_code_1">מעונן</string>
+  <string name="weather_code_2">קצת עננים</string>
+  <string name="weather_code_3">מעונן חלקית</string>
   <!-- Forecast unavailable -->
 </resources>
