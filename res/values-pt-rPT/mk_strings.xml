@@ -16,5 +16,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Weather codes -->
+  <string name="weather_code_0">Soalheiro</string>
+  <string name="weather_code_1">Nublado</string>
+  <string name="weather_code_2">Poucas Nuvens</string>
+  <string name="weather_code_3">Parcialmente Nublado</string>
+  <string name="weather_code_4">Sombrio</string>
+  <string name="weather_code_5">Ventoso</string>
+  <string name="weather_code_6">Calmo</string>
+  <string name="weather_code_7">Brisa Ligeira</string>
+  <string name="weather_code_8">Brisa Moderada</string>
+  <string name="weather_code_9">Brisa Fresca</string>
+  <string name="weather_code_11">Vento Forte</string>
+  <string name="weather_code_12">Temporal</string>
+  <string name="weather_code_14">Tempestade</string>
+  <string name="weather_code_15">Tempestade Violenta</string>
   <!-- Forecast unavailable -->
 </resources>
