@@ -30,5 +30,8 @@
   <string name="weather_code_12">Temporal</string>
   <string name="weather_code_14">Tempestade</string>
   <string name="weather_code_15">Tempestade Violenta</string>
+  <string name="weather_code_17">Tornado</string>
+  <string name="weather_code_18">Tempestade Tropical</string>
+  <string name="weather_code_21">Chuvas Torrenciais</string>
   <!-- Forecast unavailable -->
 </resources>
