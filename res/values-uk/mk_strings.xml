@@ -41,7 +41,7 @@
   <string name="weather_code_22">Сильна гроза</string>
   <string name="weather_code_23">Град</string>
   <string name="weather_code_24">Легкий дощ</string>
-  <string name="weather_code_25">Середній дощ</string>
+  <string name="weather_code_25">Помірний дощ</string>
   <string name="weather_code_26">Сильний дощ</string>
   <string name="weather_code_27">Екстремальний дощ</string>
   <string name="weather_code_28">Мжичка</string>
@@ -50,7 +50,7 @@
   <string name="weather_code_31">Важкий шторм</string>
   <string name="weather_code_32">Град</string>
   <string name="weather_code_33">Легкий сніг</string>
-  <string name="weather_code_34">Середній сніг</string>
+  <string name="weather_code_34">Помірний сніг</string>
   <string name="weather_code_35">Сильний сніг</string>
   <string name="weather_code_36">Завірюха</string>
   <string name="weather_code_37">Мокрий сніг</string>
