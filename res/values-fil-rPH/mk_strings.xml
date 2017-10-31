@@ -16,5 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Weather codes -->
+  <string name="weather_code_0">Maaraw</string>
+  <string name="weather_code_1">Maulap</string>
+  <string name="weather_code_5">Mahangin</string>
+  <string name="weather_code_6">Kalmado</string>
+  <string name="weather_code_43">Aso</string>
+  <string name="weather_code_44">Buhangin</string>
+  <string name="weather_code_45">Alabok</string>
+  <string name="weather_code_46">Abo ng bulkan</string>
+  <string name="weather_code_49">Mainit</string>
+  <string name="weather_code_50">Malamig</string>
   <!-- Forecast unavailable -->
 </resources>
