@@ -23,7 +23,7 @@
   <string name="weather_code_4">Пасмурно</string>
   <string name="weather_code_5">Ветрено</string>
   <string name="weather_code_6">Штиль</string>
-  <string name="weather_code_7">Легкий ветер</string>
+  <string name="weather_code_7">Лёгкий ветер</string>
   <string name="weather_code_8">Умеренный ветер</string>
   <string name="weather_code_9">Свежий ветер</string>
   <string name="weather_code_10">Сильный ветер</string>
@@ -49,7 +49,7 @@
   <string name="weather_code_30">Сильный снег</string>
   <string name="weather_code_31">Сильный шторм</string>
   <string name="weather_code_32">Ледяной дождь</string>
-  <string name="weather_code_33">Легкий снег</string>
+  <string name="weather_code_33">Лёгкий снег</string>
   <string name="weather_code_34">Умеренный снег</string>
   <string name="weather_code_35">Сильный снег</string>
   <string name="weather_code_36">Метель</string>
