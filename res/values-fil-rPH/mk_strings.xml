@@ -18,7 +18,7 @@
   <!-- Weather - Weather codes -->
   <string name="weather_code_0">Maaraw</string>
   <string name="weather_code_1">Maulap</string>
-  <string name="weather_code_2">Ilang mga ulap</string>
+  <string name="weather_code_2">Ilang ulap</string>
   <string name="weather_code_3">Bahagyang maulap</string>
   <string name="weather_code_4">Overcast</string>
   <string name="weather_code_5">Mahangin</string>
@@ -34,17 +34,17 @@
   <string name="weather_code_15">Marahas na bagyo</string>
   <string name="weather_code_16">Bagyo</string>
   <string name="weather_code_17">Buhawi</string>
-  <string name="weather_code_18">Tropikal na bagyo</string>
+  <string name="weather_code_18">Bagyo</string>
   <string name="weather_code_19">Shower na ulan</string>
   <string name="weather_code_20">Mabigat na shower na ulan</string>
   <string name="weather_code_21">Thundershower</string>
   <string name="weather_code_22">Mabigat na thunderstorm</string>
   <string name="weather_code_23">Hail</string>
-  <string name="weather_code_24">Light na ulan</string>
+  <string name="weather_code_24">Banayad na ulan</string>
   <string name="weather_code_25">Katamtamang ulan</string>
   <string name="weather_code_26">Malakas na ulan</string>
   <string name="weather_code_27">Matinding ulan</string>
-  <string name="weather_code_28">Ambon na ulan</string>
+  <string name="weather_code_28">Ambon</string>
   <string name="weather_code_29">Bagyo</string>
   <string name="weather_code_30">Mabigat na bagyo</string>
   <string name="weather_code_31">Matinding bagyo</string>
