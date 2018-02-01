@@ -16,5 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Weather codes -->
+  <string name="weather_code_0">ಬಿಸಿಲು</string>
+  <string name="weather_code_1">ಮೋಡ ಕವಿದಿರುವ</string>
+  <string name="weather_code_2">ಕೆಲವು ಮೋಡಗಳು</string>
+  <string name="weather_code_3">ಭಾಗಶಃ ಮೋಡಕವಿದ</string>
+  <string name="weather_code_5">ಗಾಳಿಸಹಿತ</string>
+  <string name="weather_code_6">ಶಾಂತ</string>
+  <string name="weather_code_7">ತಿಳಿ ತಂಗಾಳಿ</string>
+  <string name="weather_code_8">ಮಾಧ್ಯಮ ತಂಗಾಳಿ</string>
+  <string name="weather_code_9">ತಾಜಾ ತಂಗಾಳಿ</string>
+  <string name="weather_code_10">ಬಿರಿಸು ತಂಗಾಳಿ</string>
+  <string name="weather_code_11">ಹೆಚ್ಚು ಗಾಳಿ</string>
+  <string name="weather_code_12">ಬಿರುಗಾಳಿ</string>
+  <string name="weather_code_13">ಕಠೀಣ ಬಿರುಗಾಳಿ
+</string>
+  <string name="weather_code_14">ಚಂಡಮಾರುತ</string>
+  <string name="weather_code_15">ಹಾನಿಕಾರಕ ಬಿರುಗಾಳಿ</string>
+  <string name="weather_code_16">ಪ್ರವಾಹ</string>
+  <string name="weather_code_17">ಸುಂಟರಗಾಳಿ</string>
+  <string name="weather_code_29">ಚಂಡಮಾರುತ</string>
   <!-- Forecast unavailable -->
 </resources>
