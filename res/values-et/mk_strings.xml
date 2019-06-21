@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Päikeseline</string>
     <string name="weather_code_1">Pilves</string>
     <string name="weather_code_2">Mõned pilved</string>
@@ -27,7 +26,44 @@
     <string name="weather_code_8">Mõõdukas tuul</string>
     <string name="weather_code_9">Värske tuuleiil</string>
     <string name="weather_code_10">Tugev tuul</string>
+    <string name="weather_code_11">Tugev tuul</string>
+    <string name="weather_code_12">Tuul</string>
+    <string name="weather_code_13">Tugev raju</string>
     <string name="weather_code_14">Torm</string>
+    <string name="weather_code_15">Raevukas torm</string>
+    <string name="weather_code_16">Orkaan</string>
+    <string name="weather_code_17">Tornaado</string>
+    <string name="weather_code_18">Troopiline Torm</string>
+    <string name="weather_code_19">Hoo vihm</string>
+    <string name="weather_code_20">Kõva hoo vihm</string>
+    <string name="weather_code_21">Äikesevihm</string>
+    <string name="weather_code_22">Tugev äike</string>
+    <string name="weather_code_23">Rahe</string>
+    <string name="weather_code_24">Kerge vihm</string>
+    <string name="weather_code_25">Mõõdukas vihm</string>
+    <string name="weather_code_26">Tugev vihm</string>
+    <string name="weather_code_27">Ekstreemne vihm</string>
+    <string name="weather_code_28">Uduvihm</string>
     <string name="weather_code_29">Torm</string>
-    <!-- Forecast unavailable -->
+    <string name="weather_code_30">Tõsine torm</string>
+    <string name="weather_code_31">Tugev torm</string>
+    <string name="weather_code_32">Jäine Vihm</string>
+    <string name="weather_code_33">Kerge lumi</string>
+    <string name="weather_code_34">Keskmine lumesadu</string>
+    <string name="weather_code_35">Tugev lumesadu</string>
+    <string name="weather_code_36">Lumetuisk</string>
+    <string name="weather_code_37">Lörts</string>
+    <string name="weather_code_38">Lörts</string>
+    <string name="weather_code_39">Hootine lumi</string>
+    <string name="weather_code_40">Lumesadu</string>
+    <string name="weather_code_41">Udu</string>
+    <string name="weather_code_42">Udune</string>
+    <string name="weather_code_43">Uduvine</string>
+    <string name="weather_code_44">Liiv</string>
+    <string name="weather_code_45">Tolm</string>
+    <string name="weather_code_46">Vulkaaniline tuhk</string>
+    <string name="weather_code_47">Tolmutorm</string>
+    <string name="weather_code_48">Liivatorm</string>
+    <string name="weather_code_49">Kuum</string>
+    <string name="weather_code_50">Külm</string>
 </resources>

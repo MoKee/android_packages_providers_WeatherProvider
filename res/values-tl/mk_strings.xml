@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Maaraw</string>
     <string name="weather_code_1">Maulap</string>
     <string name="weather_code_2">Ilang mga ulap</string>
@@ -65,5 +64,4 @@
     <string name="weather_code_47">Duststorm</string>
     <string name="weather_code_49">Mainit</string>
     <string name="weather_code_50">Malamig</string>
-    <!-- Forecast unavailable -->
 </resources>

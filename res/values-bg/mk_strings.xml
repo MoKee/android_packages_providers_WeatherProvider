@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Слънчево</string>
     <string name="weather_code_1">Облачно</string>
     <string name="weather_code_2">Малко облаци</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Пясъчна буря</string>
     <string name="weather_code_49">Горещо</string>
     <string name="weather_code_50">Студено</string>
-    <!-- Forecast unavailable -->
 </resources>

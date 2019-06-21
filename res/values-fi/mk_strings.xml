@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Aurinkoista</string>
     <string name="weather_code_1">Pilvistä</string>
     <string name="weather_code_2">Osittain pilvistä</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Sandstorm</string>
     <string name="weather_code_49">Kuuma</string>
     <string name="weather_code_50">Kylmä</string>
-    <!-- Forecast unavailable -->
 </resources>

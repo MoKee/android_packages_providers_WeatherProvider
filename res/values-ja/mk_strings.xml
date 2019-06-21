@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">晴れ</string>
     <string name="weather_code_1">曇り</string>
     <string name="weather_code_2">やや曇り</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">砂嵐</string>
     <string name="weather_code_49">ホット</string>
     <string name="weather_code_50">寒い</string>
-    <!-- Forecast unavailable -->
 </resources>

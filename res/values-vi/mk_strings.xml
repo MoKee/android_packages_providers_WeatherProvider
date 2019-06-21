@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Nắng</string>
     <string name="weather_code_1">Có mây</string>
     <string name="weather_code_2">Mây rải rác</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Bão cát</string>
     <string name="weather_code_49">Nóng</string>
     <string name="weather_code_50">Lạnh</string>
-    <!-- Forecast unavailable -->
 </resources>

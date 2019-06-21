@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Zonnig</string>
     <string name="weather_code_1">Wolken</string>
     <string name="weather_code_2">Enkele wolken</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Zandstorm</string>
     <string name="weather_code_49">Warm</string>
     <string name="weather_code_50">Koud</string>
-    <!-- Forecast unavailable -->
 </resources>

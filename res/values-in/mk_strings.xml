@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Cerah</string>
     <string name="weather_code_1">Berawan</string>
     <string name="weather_code_2">Sedikit Berawan</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Badai pasir</string>
     <string name="weather_code_49">Panas</string>
     <string name="weather_code_50">Dingin</string>
-    <!-- Forecast unavailable -->
 </resources>

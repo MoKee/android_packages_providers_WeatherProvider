@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">晴天</string>
     <string name="weather_code_1">多云</string>
     <string name="weather_code_2">少云</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">强沙尘暴</string>
     <string name="weather_code_49">热</string>
     <string name="weather_code_50">冷</string>
-    <!-- Forecast unavailable -->
 </resources>

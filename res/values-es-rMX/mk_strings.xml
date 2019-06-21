@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Soleado</string>
     <string name="weather_code_1">Nublado</string>
     <string name="weather_code_2">Algunas nubes</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Tormenta de arena</string>
     <string name="weather_code_49">Cálida</string>
     <string name="weather_code_50">Fría</string>
-    <!-- Forecast unavailable -->
 </resources>

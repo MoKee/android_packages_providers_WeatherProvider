@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Ηλιόλουστος</string>
     <string name="weather_code_1">Νεφελώδης</string>
     <string name="weather_code_2">Λίγα σύννεφα</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Αμμοθύελλα</string>
     <string name="weather_code_49">Ζεστός</string>
     <string name="weather_code_50">Κρύος</string>
-    <!-- Forecast unavailable -->
 </resources>

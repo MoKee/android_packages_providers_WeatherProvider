@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Slnečno</string>
     <string name="weather_code_1">Oblačno</string>
     <string name="weather_code_2">Niekoľko mrakov</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Piesočná búrka</string>
     <string name="weather_code_49">Horúco</string>
     <string name="weather_code_50">Chladno</string>
-    <!-- Forecast unavailable -->
 </resources>

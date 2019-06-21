@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">Güneşli</string>
     <string name="weather_code_1">Bulutlu</string>
     <string name="weather_code_2">Az Bulutlu</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">Kum Fırtınası</string>
     <string name="weather_code_49">Sıcak</string>
     <string name="weather_code_50">Soğuk</string>
-    <!-- Forecast unavailable -->
 </resources>

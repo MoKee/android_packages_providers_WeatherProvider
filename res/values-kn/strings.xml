@@ -16,24 +16,24 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">ಹವಾಮಾನ ಪರಿಚಾರಕ</string>
-    <string name="weather_2">ಚಂಡಮಾರುತ</string>
-    <string name="weather_8">ಹೆಪ್ಪುಗಟ್ಟುವ ತುಂತುರು ಮಳೆ</string>
-    <string name="weather_9">ತುಂತುರು ಮಳೆ</string>
-    <string name="weather_10">ಹೆಪ್ಪುಗಟ್ಟುವ ಮಳೆ</string>
-    <string name="weather_13">ಲಘು ಹಿಮ ವೃಷ್ಟಿ</string>
-    <string name="weather_14">ಬೀಸುವ ಹಿಮ</string>
+    <string name="weather_0">ಸುಂಟರಗಾಳಿ</string>
+    <string name="weather_1">ಉಷ್ಣವಲಯ ಬಿರುಗಾಳಿ</string>
+    <string name="weather_2">ಪ್ರವಾಹ</string>
+    <string name="weather_10">ಘನೀಕೃತ ಮಳೆ</string>
+    <string name="weather_15">ಹಿಮ</string>
     <string name="weather_16">ಆಲಿಕಲ್ಲು</string>
-    <string name="weather_18">ದೂಳು</string>
-    <string name="weather_19">ಮಂಜುಗಟ್ಟಿದ</string>
-    <string name="weather_20">ಮಬ್ಬಾದ</string>
-    <string name="weather_23">ಗಾಳಿಯುತ</string>
-    <string name="weather_25">ಮೋಡಕವಿದ</string>
-    <string name="weather_30">ತೆರವು</string>
-    <string name="weather_32">ಉತ್ತಮ</string>
-    <string name="weather_33">ಉತ್ತಮ</string>
-    <string name="weather_35">ಉದ್ರಿಕ್ತ</string>
-    <string name="weather_36">ಪ್ರತ್ಯೇಕ ಚಂಡಮಾರುತ</string>
+    <string name="weather_17">ಆಲಿಕಲ್ಲು</string>
+    <string name="weather_18">ಧೂಳು</string>
+    <string name="weather_19">ದಟ್ಟವಾದ</string>
+    <string name="weather_20">ಮಬ್ಬುಗಟ್ಟಿದ</string>
+    <string name="weather_23">ಗಾಳಿಸಹಿತ</string>
+    <string name="weather_24">ಶೀತ</string>
+    <string name="weather_25">ಮೋಡ ಕವಿದಿರುವ</string>
+    <string name="weather_28">ಭಾಗಶಃ ಮೋಡಕವಿದ</string>
+    <string name="weather_29">ಭಾಗಶಃ ಮೋಡಕವಿದ</string>
+    <string name="weather_30">ತೆರವುಗೊಳಿಸು</string>
+    <string name="weather_31">ಬಿಸಿಲು</string>
+    <string name="weather_35">ಉಷ್ಣ</string>
     <string name="weather_39">ಭಾರೀ ಹಿಮ</string>
-    <string name="weather_44">ಪ್ರತ್ಯೇಕ ಗುಡುಗುಮಳೆ</string>
+    <string name="weather_41">ಭಾಗಶಃ ಮೋಡಕವಿದ</string>
 </resources>

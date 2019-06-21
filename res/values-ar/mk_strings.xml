@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Weather - Weather codes -->
     <string name="weather_code_0">مشمس</string>
     <string name="weather_code_1">غائم</string>
     <string name="weather_code_2">غيوم قليلة</string>
@@ -67,5 +66,4 @@
     <string name="weather_code_48">زوبعة رملية</string>
     <string name="weather_code_49">حار</string>
     <string name="weather_code_50">بارد</string>
-    <!-- Forecast unavailable -->
 </resources>
