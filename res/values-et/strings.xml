@@ -16,24 +16,50 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">Ilmateenistus</string>
     <string name="weather_0">Tornaado</string>
     <string name="weather_1">Troopiline Torm</string>
     <string name="weather_2">Orkaan</string>
+    <string name="weather_3">Tugevad Äikesetormid</string>
+    <string name="weather_4">Äikesetormid</string>
+    <string name="weather_5">Vihma ja lume segu</string>
+    <string name="weather_6">Vihma ja lörtsi segu</string>
+    <string name="weather_7">Lume ja lörtsi segu</string>
+    <string name="weather_8">Jäine uduvihm</string>
+    <string name="weather_9">Uduvihm</string>
     <string name="weather_10">Jäine Vihm</string>
+    <string name="weather_11">Sadu</string>
+    <string name="weather_12">Lumesadu</string>
+    <string name="weather_13">Kerge lumesadu</string>
+    <string name="weather_14">Lumetuisk</string>
     <string name="weather_15">Lumi</string>
     <string name="weather_16">Rahe</string>
     <string name="weather_17">Lörts</string>
     <string name="weather_18">Tolm</string>
     <string name="weather_19">Udune</string>
     <string name="weather_20">Uduvine</string>
+    <string name="weather_21">Suitsune</string>
+    <string name="weather_22">Tormine</string>
     <string name="weather_23">Tuuline</string>
     <string name="weather_24">Külm</string>
     <string name="weather_25">Pilves</string>
+    <string name="weather_26">Peamiselt pilves</string>
+    <string name="weather_27">Peamiselt pilves</string>
     <string name="weather_28">Osaliselt pilves</string>
     <string name="weather_29">Osaliselt pilves</string>
     <string name="weather_30">Tühjenda</string>
     <string name="weather_31">Päikeseline</string>
+    <string name="weather_32">Rahulik</string>
+    <string name="weather_33">Rahulik</string>
+    <string name="weather_34">Vihma ja rahe segu</string>
     <string name="weather_35">Kuum</string>
+    <string name="weather_36">Isoleeritud äikesetormid</string>
+    <string name="weather_37">Hajutatud äikesetormid</string>
+    <string name="weather_38">Hajutatud vihmasadu</string>
     <string name="weather_39">Tugev lumesadu</string>
+    <string name="weather_40">Kerge lumesadu</string>
     <string name="weather_41">Osaliselt pilves</string>
+    <string name="weather_42">Äikesevihm</string>
+    <string name="weather_43">Lumesadu</string>
+    <string name="weather_44">Erinevad äikesesajud</string>
 </resources>
