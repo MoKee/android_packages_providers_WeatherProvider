@@ -16,23 +16,41 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">天氣供應商</string>
     <string name="weather_0">龍捲風</string>
     <string name="weather_1">熱帶風暴</string>
     <string name="weather_2">颶風</string>
+    <string name="weather_3">強烈雷雨</string>
+    <string name="weather_4">雷雨</string>
+    <string name="weather_5">降雨時有雪</string>
+    <string name="weather_6">降雨時有雹</string>
+    <string name="weather_7">降雪時有雹</string>
+    <string name="weather_8">結冰毛毛雨</string>
+    <string name="weather_9">毛毛雨</string>
     <string name="weather_10">凍雨</string>
+    <string name="weather_11">陣雨</string>
+    <string name="weather_12">陣雪</string>
+    <string name="weather_13">小陣雪</string>
+    <string name="weather_14">吹雪</string>
     <string name="weather_15">雪景</string>
     <string name="weather_16">冰雹</string>
     <string name="weather_17">雨雪</string>
     <string name="weather_18">灰霾</string>
     <string name="weather_19">大霧</string>
     <string name="weather_20">陰霾</string>
+    <string name="weather_21">煙霧</string>
+    <string name="weather_22">狂風</string>
     <string name="weather_23">大風</string>
     <string name="weather_24">寒冷</string>
     <string name="weather_25">多雲</string>
+    <string name="weather_26">多雲時陰</string>
+    <string name="weather_27">多雲時陰</string>
     <string name="weather_28">局部有雲</string>
     <string name="weather_29">局部有雲</string>
     <string name="weather_30">清除</string>
     <string name="weather_31">晴天</string>
+    <string name="weather_32">晴朗</string>
+    <string name="weather_33">晴朗</string>
     <string name="weather_35">炎熱</string>
     <string name="weather_39">大雪</string>
     <string name="weather_41">局部有雲</string>

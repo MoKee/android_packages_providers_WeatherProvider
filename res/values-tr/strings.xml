@@ -16,24 +16,50 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">Hava durumu sağlayıcı</string>
     <string name="weather_0">Hortum</string>
     <string name="weather_1">Tropik Fırtına</string>
     <string name="weather_2">Kasırga</string>
+    <string name="weather_3">Şiddetli fırtına</string>
+    <string name="weather_4">Fırtına</string>
+    <string name="weather_5">Karla karışık yağmur</string>
+    <string name="weather_6">Yağmurla karışık sulu kar</string>
+    <string name="weather_7">Karla karışık yağmur</string>
+    <string name="weather_8">Dondurucu çiseleme</string>
+    <string name="weather_9">Çiseleme</string>
     <string name="weather_10">Soğuk Yağmur</string>
+    <string name="weather_11">Sağanak</string>
+    <string name="weather_12">Kar fırtınası</string>
+    <string name="weather_13">Hafif kar yağışı</string>
+    <string name="weather_14">Karlı tipi</string>
     <string name="weather_15">Kar</string>
     <string name="weather_16">Dolu</string>
     <string name="weather_17">Sulu Kar</string>
     <string name="weather_18">Tozlu</string>
     <string name="weather_19">Sisli</string>
     <string name="weather_20">Puslu</string>
+    <string name="weather_21">Dumanlı</string>
+    <string name="weather_22">Şiddetli rüzgar</string>
     <string name="weather_23">Rüzgarlı</string>
     <string name="weather_24">Soğuk</string>
     <string name="weather_25">Bulutlu</string>
+    <string name="weather_26">Çok bulutlu</string>
+    <string name="weather_27">Çok bulutlu</string>
     <string name="weather_28">Parçalı Bulutlu</string>
     <string name="weather_29">Parçalı Bulutlu</string>
     <string name="weather_30">Temizle</string>
     <string name="weather_31">Güneşli</string>
+    <string name="weather_32">Adil</string>
+    <string name="weather_33">Adil</string>
+    <string name="weather_34">Yağmurla karışık dolu</string>
     <string name="weather_35">Sıcak</string>
+    <string name="weather_36">Kısmi fırtına</string>
+    <string name="weather_37">Aralıklı fırtına</string>
+    <string name="weather_38">Aralıklı sağanak</string>
     <string name="weather_39">Ağır Kar Yağışı</string>
+    <string name="weather_40">Aralıklı kar yağışı</string>
     <string name="weather_41">Parçalı Bulutlu</string>
+    <string name="weather_42">Sağanak yağışlı</string>
+    <string name="weather_43">Kar yağışlı</string>
+    <string name="weather_44">Bölgesel gökgürültülü</string>
 </resources>
