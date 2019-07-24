@@ -16,24 +16,50 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">Provedor de tempo</string>
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tempestade Tropical</string>
     <string name="weather_2">Furacão</string>
+    <string name="weather_3">Tempestades severas</string>
+    <string name="weather_4">Tempestades</string>
+    <string name="weather_5">Misto de chuva e neve</string>
+    <string name="weather_6">Misto de chuva e granizo</string>
+    <string name="weather_7">Misto de neve e granizo</string>
+    <string name="weather_8">Chuvisco congelante</string>
+    <string name="weather_9">Chuvisco</string>
     <string name="weather_10">Chuva Congelante</string>
+    <string name="weather_11">Pancadas de chuva</string>
+    <string name="weather_12">Flocos de neve</string>
+    <string name="weather_13">Chuva de neve fraca</string>
+    <string name="weather_14">Nevando</string>
     <string name="weather_15">Neve</string>
     <string name="weather_16">Granizo</string>
     <string name="weather_17">Granizo</string>
     <string name="weather_18">Poeira</string>
     <string name="weather_19">Nevoeiro</string>
     <string name="weather_20">Névoa</string>
+    <string name="weather_21">Névoa</string>
+    <string name="weather_22">Tempestuosa</string>
     <string name="weather_23">Ventando</string>
     <string name="weather_24">Frio</string>
     <string name="weather_25">Nublado</string>
+    <string name="weather_26">Principalmente nublado</string>
+    <string name="weather_27">Principalmente nublado</string>
     <string name="weather_28">Parcialmente nublado</string>
     <string name="weather_29">Parcialmente nublado</string>
     <string name="weather_30">Limpar</string>
     <string name="weather_31">Ensolarado</string>
+    <string name="weather_32">Justo</string>
+    <string name="weather_33">Justo</string>
+    <string name="weather_34">Misto de chuva e granizo</string>
     <string name="weather_35">Quente</string>
+    <string name="weather_36">Tempestades isoladas</string>
+    <string name="weather_37">Tempestades dispersas</string>
+    <string name="weather_38">Chuvas dispersas</string>
     <string name="weather_39">Neve pesada</string>
+    <string name="weather_40">Chuvas de neve dispersas</string>
     <string name="weather_41">Parcialmente nublado</string>
+    <string name="weather_42">Trovoadas</string>
+    <string name="weather_43">Chuvas de neve</string>
+    <string name="weather_44">Trovoadas isoladas</string>
 </resources>
