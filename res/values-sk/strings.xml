@@ -16,24 +16,50 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">Poskytovateľ predpovede počasia</string>
     <string name="weather_0">Tornádo</string>
     <string name="weather_1">Tropická búrka</string>
     <string name="weather_2">Hurikán</string>
+    <string name="weather_3">Ojedinelé búrky</string>
+    <string name="weather_4">Búrky</string>
+    <string name="weather_5">Dážď so snehom</string>
+    <string name="weather_6">Dážď s krúpami</string>
+    <string name="weather_7">Sneh s krúpami</string>
+    <string name="weather_8">Mrznúce mrholenie</string>
+    <string name="weather_9">Mrholenie</string>
     <string name="weather_10">Mrznúci dážď</string>
+    <string name="weather_11">Prehánky</string>
+    <string name="weather_12">Silné sneženie</string>
+    <string name="weather_13">Slabé sneženie</string>
+    <string name="weather_14">Sneženie s vetrom</string>
     <string name="weather_15">Sneh</string>
     <string name="weather_16">Krupobitie</string>
     <string name="weather_17">Čľapkanica</string>
     <string name="weather_18">Prach</string>
     <string name="weather_19">Mlhavo</string>
     <string name="weather_20">Opar</string>
+    <string name="weather_21">Smog</string>
+    <string name="weather_22">Veľmi veterno</string>
     <string name="weather_23">Veterno</string>
     <string name="weather_24">Chladno</string>
     <string name="weather_25">Oblačno</string>
+    <string name="weather_26">Prevažne zamračené</string>
+    <string name="weather_27">Prevažne zamračené</string>
     <string name="weather_28">Polojasno</string>
     <string name="weather_29">Polojasno</string>
     <string name="weather_30">Vymazať</string>
     <string name="weather_31">Slnečno</string>
+    <string name="weather_32">Pekne</string>
+    <string name="weather_33">Pekne</string>
+    <string name="weather_34">Dážď s krupobitím</string>
     <string name="weather_35">Horúco</string>
+    <string name="weather_36">Ojedinelé búrky</string>
+    <string name="weather_37">Občasné búrky</string>
+    <string name="weather_38">Občasné prehánky</string>
     <string name="weather_39">Husté sneženie</string>
+    <string name="weather_40">Občasné snehové prehánky</string>
     <string name="weather_41">Polojasno</string>
+    <string name="weather_42">Búrkové prehánky</string>
+    <string name="weather_43">Snehové prehánky</string>
+    <string name="weather_44">Ojedinelé búrky</string>
 </resources>
