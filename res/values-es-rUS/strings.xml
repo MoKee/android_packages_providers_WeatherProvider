@@ -16,9 +16,12 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">Proveedor de clima</string>
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tormenta tropical</string>
     <string name="weather_2">Huracán</string>
+    <string name="weather_3">Tormentas severas</string>
+    <string name="weather_4">Tormentas eléctricas</string>
     <string name="weather_10">Lluvia helada</string>
     <string name="weather_15">Nieve</string>
     <string name="weather_16">Granizo</string>
