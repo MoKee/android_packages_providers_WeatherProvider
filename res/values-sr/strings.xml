@@ -16,24 +16,50 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">Пружалац услуга временских прилика</string>
     <string name="weather_0">Торнадо</string>
     <string name="weather_1">Тропска Олуја</string>
     <string name="weather_2">Ураган</string>
+    <string name="weather_3">Тешке олује</string>
+    <string name="weather_4">Грмљавина</string>
+    <string name="weather_5">Мешовито киша и снег</string>
+    <string name="weather_6">Мешовито киша и суснежица</string>
+    <string name="weather_7">Мешовито снег и суснежица</string>
+    <string name="weather_8">Ледена киша</string>
+    <string name="weather_9">Ромињање кише</string>
     <string name="weather_10">Ледена киша</string>
+    <string name="weather_11">Пљусак</string>
+    <string name="weather_12">Налети снега</string>
+    <string name="weather_13">Слабији снег</string>
+    <string name="weather_14">Вејавица</string>
     <string name="weather_15">Снег</string>
     <string name="weather_16">Падавине</string>
     <string name="weather_17">Сусњежица</string>
     <string name="weather_18">Прашина</string>
     <string name="weather_19">Магловито</string>
     <string name="weather_20">Измаглица</string>
+    <string name="weather_21">Смог</string>
+    <string name="weather_22">Ветровито</string>
     <string name="weather_23">Ветровито</string>
     <string name="weather_24">Хладно</string>
     <string name="weather_25">Облачно</string>
+    <string name="weather_26">Углавном облачно</string>
+    <string name="weather_27">Углавном облачно</string>
     <string name="weather_28">Мали облаци</string>
     <string name="weather_29">Мали облаци</string>
     <string name="weather_30">Обриши</string>
     <string name="weather_31">Сунчано</string>
-    <string name="weather_35">Врућина</string>
+    <string name="weather_32">Ведро</string>
+    <string name="weather_33">Ведро</string>
+    <string name="weather_34">Мешовито киша и град</string>
+    <string name="weather_35">Врућe</string>
+    <string name="weather_36">Местимичне олује</string>
+    <string name="weather_37">Местимичне олује</string>
+    <string name="weather_38">Местимични пљускови</string>
     <string name="weather_39">Јак снег</string>
+    <string name="weather_40">Местимичне снежне падавине</string>
     <string name="weather_41">Мали облаци</string>
+    <string name="weather_42">Олујни пљускови</string>
+    <string name="weather_43">Снежне падавине</string>
+    <string name="weather_44">Локални олујни пљускови</string>
 </resources>

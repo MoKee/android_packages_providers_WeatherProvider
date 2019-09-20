@@ -56,7 +56,7 @@
     <string name="weather_code_38">Киша са снегом</string>
     <string name="weather_code_39">Мокри снег</string>
     <string name="weather_code_40">Шушкави снег</string>
-    <string name="weather_code_41">Измаглица</string>
+    <string name="weather_code_41">Магла</string>
     <string name="weather_code_42">Магловито</string>
     <string name="weather_code_43">Измаглица</string>
     <string name="weather_code_44">Песак</string>
@@ -64,6 +64,6 @@
     <string name="weather_code_46">Вулкански пепео</string>
     <string name="weather_code_47">Олујна прашина</string>
     <string name="weather_code_48">Пешчана олуја</string>
-    <string name="weather_code_49">Врућина</string>
+    <string name="weather_code_49">Врућe</string>
     <string name="weather_code_50">Хладно</string>
 </resources>
