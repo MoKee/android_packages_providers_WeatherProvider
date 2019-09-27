@@ -16,6 +16,19 @@
      limitations under the License.
 -->
 <resources>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tropska oluja</string>
+    <string name="weather_2">Uragan</string>
+    <string name="weather_10">Ledena kiša</string>
     <string name="weather_15">Snijeg</string>
+    <string name="weather_16">Tuča</string>
+    <string name="weather_17">Susnježica</string>
+    <string name="weather_23">Vjetrovito</string>
+    <string name="weather_25">Oblačno</string>
+    <string name="weather_28">Djelomično oblačno</string>
+    <string name="weather_29">Djelomično oblačno</string>
     <string name="weather_30">Očisti</string>
+    <string name="weather_31">Sunčano</string>
+    <string name="weather_39">Gust snijeg</string>
+    <string name="weather_41">Djelomično oblačno</string>
 </resources>
