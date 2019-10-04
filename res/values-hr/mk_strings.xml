@@ -57,4 +57,13 @@
     <string name="weather_code_39">Mokri sneg</string>
     <string name="weather_code_40">Snježni naleti</string>
     <string name="weather_code_41">Magla</string>
+    <string name="weather_code_42">Maglovito</string>
+    <string name="weather_code_43">Sumaglica</string>
+    <string name="weather_code_44">Pijesak</string>
+    <string name="weather_code_45">Prašina</string>
+    <string name="weather_code_46">Vulkanski pepeo</string>
+    <string name="weather_code_47">Prašnjava oluja</string>
+    <string name="weather_code_48">Pješčana oluja</string>
+    <string name="weather_code_49">Vruće</string>
+    <string name="weather_code_50">Hladno</string>
 </resources>

@@ -23,12 +23,17 @@
     <string name="weather_15">Snijeg</string>
     <string name="weather_16">Tuča</string>
     <string name="weather_17">Susnježica</string>
+    <string name="weather_18">Prašina</string>
+    <string name="weather_19">Maglovito</string>
+    <string name="weather_20">Sumaglica</string>
     <string name="weather_23">Vjetrovito</string>
+    <string name="weather_24">Hladno</string>
     <string name="weather_25">Oblačno</string>
     <string name="weather_28">Djelomično oblačno</string>
     <string name="weather_29">Djelomično oblačno</string>
     <string name="weather_30">Očisti</string>
     <string name="weather_31">Sunčano</string>
+    <string name="weather_35">Vruće</string>
     <string name="weather_39">Gust snijeg</string>
     <string name="weather_41">Djelomično oblačno</string>
 </resources>
