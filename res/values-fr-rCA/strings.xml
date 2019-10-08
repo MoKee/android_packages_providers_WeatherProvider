@@ -16,10 +16,19 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">Fournisseur Météo</string>
     <string name="weather_0">Tornade</string>
     <string name="weather_1">Tempête tropicale</string>
     <string name="weather_2">Ouragan</string>
+    <string name="weather_3">Orages Violents</string>
+    <string name="weather_4">Orages</string>
+    <string name="weather_5">Pluie et neige</string>
+    <string name="weather_6">Pluie et Neige Fondue</string>
+    <string name="weather_7">Neige et Neige Fondue</string>
+    <string name="weather_8">Bruine Verglaçante</string>
+    <string name="weather_9">Bruine</string>
     <string name="weather_10">Pluie verglaçante</string>
+    <string name="weather_11">Averses</string>
     <string name="weather_15">Neige</string>
     <string name="weather_16">Grêle</string>
     <string name="weather_17">Neige fondue</string>
@@ -29,6 +38,8 @@
     <string name="weather_23">Venteux</string>
     <string name="weather_24">Froid</string>
     <string name="weather_25">Nuageux</string>
+    <string name="weather_26">Plutôt nuageux</string>
+    <string name="weather_27">Plutôt nuageux</string>
     <string name="weather_28">Partiellement nuageux</string>
     <string name="weather_29">Partiellement nuageux</string>
     <string name="weather_30">Effacer</string>
@@ -36,4 +47,5 @@
     <string name="weather_35">Chaud</string>
     <string name="weather_39">Fortes chutes de neige</string>
     <string name="weather_41">Partiellement nuageux</string>
+    <string name="weather_43">Chutes de neige</string>
 </resources>
