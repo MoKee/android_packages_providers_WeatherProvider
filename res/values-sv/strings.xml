@@ -22,8 +22,10 @@
     <string name="weather_10">Underkylt regn</string>
     <string name="weather_15">Snö</string>
     <string name="weather_16">Hagel</string>
+    <string name="weather_17">Slask</string>
     <string name="weather_18">Damm</string>
     <string name="weather_19">Dimmigt</string>
+    <string name="weather_20">Dis</string>
     <string name="weather_23">Blåsigt</string>
     <string name="weather_24">Kall</string>
     <string name="weather_25">Molnigt</string>
@@ -31,6 +33,7 @@
     <string name="weather_29">Växlande molnighet</string>
     <string name="weather_30">Rensa</string>
     <string name="weather_31">Soligt</string>
+    <string name="weather_35">Hett</string>
     <string name="weather_39">Kraftigt snöfall</string>
     <string name="weather_41">Växlande molnighet</string>
 </resources>

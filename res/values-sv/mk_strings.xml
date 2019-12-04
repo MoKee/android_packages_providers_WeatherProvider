@@ -30,6 +30,7 @@
     <string name="weather_code_17">Tornado</string>
     <string name="weather_code_18">Tropisk storm</string>
     <string name="weather_code_21">Åskregn</string>
+    <string name="weather_code_22">Kraftigt åskväder</string>
     <string name="weather_code_23">Hagel</string>
     <string name="weather_code_24">Lätt regn</string>
     <string name="weather_code_25">Måttligt regn</string>
@@ -40,12 +41,16 @@
     <string name="weather_code_34">Måttlig snö</string>
     <string name="weather_code_35">Kraftigt snöfall</string>
     <string name="weather_code_36">Snöstorm</string>
+    <string name="weather_code_37">Slask</string>
     <string name="weather_code_38">Regn med snö</string>
+    <string name="weather_code_40">Kastbyar av snö</string>
     <string name="weather_code_41">Dis</string>
     <string name="weather_code_42">Dimmigt</string>
+    <string name="weather_code_43">Dis</string>
     <string name="weather_code_44">Sand</string>
     <string name="weather_code_45">Damm</string>
     <string name="weather_code_46">Vulkanisk aska</string>
     <string name="weather_code_48">Sandstorm</string>
+    <string name="weather_code_49">Hett</string>
     <string name="weather_code_50">Kall</string>
 </resources>

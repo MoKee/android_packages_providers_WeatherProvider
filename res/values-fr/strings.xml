@@ -29,12 +29,17 @@
     <string name="weather_9">Bruine</string>
     <string name="weather_10">Pluie verglaçante</string>
     <string name="weather_11">Averses</string>
+    <string name="weather_12">Rafales de neige</string>
+    <string name="weather_13">Légères chutes de neige</string>
+    <string name="weather_14">Poudrerie</string>
     <string name="weather_15">Neige</string>
     <string name="weather_16">Grêle</string>
     <string name="weather_17">Neige fondue</string>
     <string name="weather_18">Poussière</string>
     <string name="weather_19">Brumeux</string>
     <string name="weather_20">Brume</string>
+    <string name="weather_21">Fumeux</string>
+    <string name="weather_22">Tempétueux</string>
     <string name="weather_23">Venteux</string>
     <string name="weather_24">Froid</string>
     <string name="weather_25">Nuageux</string>
@@ -44,8 +49,17 @@
     <string name="weather_29">Partiellement nuageux</string>
     <string name="weather_30">Effacer</string>
     <string name="weather_31">Ensoleillé</string>
+    <string name="weather_32">Acceptable</string>
+    <string name="weather_33">Acceptable</string>
+    <string name="weather_34">Pluie et grêle</string>
     <string name="weather_35">Chaud</string>
+    <string name="weather_36">Orages isolés</string>
+    <string name="weather_37">Orages épars</string>
+    <string name="weather_38">Averses éparses</string>
     <string name="weather_39">Fortes chutes de neige</string>
+    <string name="weather_40">Chutes de neige éparses</string>
     <string name="weather_41">Partiellement nuageux</string>
+    <string name="weather_42">Averses orageuses</string>
     <string name="weather_43">Chutes de neige</string>
+    <string name="weather_44">Averses orageuses isolées</string>
 </resources>
